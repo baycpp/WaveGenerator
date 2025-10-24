@@ -7,8 +7,8 @@ WaveGenerator is a water wave generator for Java on Android.
 - wVelocity: Controls the horizontal speed at which the wave pattern moves (default: 0.5f).
 - wColor: Sets the color used to draw the wave on the canvas (default: Blue).
 - wRight: Determines the direction of the wave movement. 
-          When set to the true, the wave moves to the right.
-          When set to false (default) the waves moves to the left.
+  When set to the true, the wave moves to the right.
+  When set to the false (default) the wave moves to the left.
 
 # How to Use
 ### build.gradle (:app)

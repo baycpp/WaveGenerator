@@ -39,4 +39,4 @@ WaveGenerator is a water wave generator for Java on Android.
 ```
 
 # Console
-<img src="https://github.com/user-attachments/assets/d221f2c3-538f-4195-a402-59d8c86b25aa" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/d221f2c3-538f-4195-a402-59d8c86b25aa" width="300" height="600">

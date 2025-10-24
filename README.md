@@ -9,7 +9,7 @@ WaveGenerator is a water wave generator for Java on Android.
 
 # How to Use
 ### build.gradle 
-- Implement this dependency to your build.gradle
+```implementation 'com.github.baycpp:WaveGenerator:1.0```
 
 ### xml
 ```xml

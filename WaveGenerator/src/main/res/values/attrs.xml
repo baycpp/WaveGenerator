@@ -5,6 +5,6 @@
         <attr name="wLength" format="float"/>
         <attr name="wAmplitude" format="float"/>
         <attr name="wVelocity" format="float"/>
-        <attr name="mRight" format="boolean"/>
+        <attr name="wRight" format="boolean"/>
     </declare-styleable>
 </resources>

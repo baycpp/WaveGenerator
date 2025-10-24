@@ -12,7 +12,7 @@ WaveGenerator is a water wave generator for Java on Android.
 
 # How to Use
 ### build.gradle (:app)
-```implementation 'com.github.baycpp:WaveGenerator:1.0'```
+```implementation 'com.github.baycpp:WaveGenerator:1.0.1'```
 
 ### settings.gradle 
 ```maven { url 'https://jitpack.io' }```

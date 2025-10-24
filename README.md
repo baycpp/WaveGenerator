@@ -8,10 +8,10 @@ WaveGenerator is a water wave generator for Java on Android.
 - wColor: Sets the color used to draw the wave on the canvas (default: Blue).
 
 # How to Use
-## build.gradle 
+### build.gradle 
 - Implement this dependency to your build.gradle
 
-## xml
+### xml
 ```java
 <com.baycpp.wavegenerator.Wave
         android:layout_width="match_parent"
@@ -23,6 +23,7 @@ WaveGenerator is a water wave generator for Java on Android.
         app:wAmplitude="0.5"
         app:wColor="@color/blue"
         app:wLength="8" />
+```
 
 # Console
 <img src="https://github.com/user-attachments/assets/c1b37403-98fd-4aea-b879-6a5a0457a8b0" width="250" height="500">

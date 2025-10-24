@@ -14,6 +14,7 @@ WaveGenerator is a water wave generator for Java on Android.
 ### xml
 ```java
 <com.baycpp.wavegenerator.Wave
+        android:id="@+id/waveGenerator"
         android:layout_width="match_parent"
         android:layout_height="400dp"/>
 ```

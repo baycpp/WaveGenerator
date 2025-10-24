@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Wave">
+        <attr name="wColor" format="color"/>
+        <attr name="wLength" format="float"/>
+        <attr name="wAmplitude" format="float"/>
+        <attr name="wVelocity" format="float"/>
+        <attr name="mRight" format="boolean"/>
+    </declare-styleable>
+</resources>

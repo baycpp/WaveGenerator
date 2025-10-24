@@ -37,7 +37,7 @@ public class Wave extends View {
         amplitude = ta.getFloat(R.styleable.Wave_wAmplitude, 1f) * 100;
         wavelength = ta.getFloat(R.styleable.Wave_wLength, 8f) * 100;
         velocity = ta.getFloat(R.styleable.Wave_wVelocity, 0.5f) * 100;
-        position = ta.getBoolean(R.styleable.Wave_mRight, false);
+        position = ta.getBoolean(R.styleable.Wave_wRight, false);
 
         path = new Path();
         paint = new Paint(Paint.ANTI_ALIAS_FLAG);

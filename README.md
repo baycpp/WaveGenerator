@@ -12,4 +12,4 @@ WaveGenerator is a water wave generator for Java on Android.
 - In xml, use <com.baycpp.wavegenerator.Wave> tag and pass parameters
 
 # Console
-![console](https://github.com/user-attachments/assets/c1b37403-98fd-4aea-b879-6a5a0457a8b0)
+<img src="https://github.com/user-attachments/assets/c1b37403-98fd-4aea-b879-6a5a0457a8b0" width="600">
